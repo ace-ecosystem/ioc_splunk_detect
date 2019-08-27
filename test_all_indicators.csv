@@ -1,0 +1,82 @@
+Indicator,Indicator_Type,ObjectID
+Security Account Manager,Windows - Service,87878787
+swpcap64.sys,Windows - Service,2134987294382143
+swpcap64.sys,Windows - FileName,8987987
+s,Antivirus - Streetname,1.23123E+18
+cmd.exe,Windows - FileName,3.33333E+18
+avagent.exe,Windows - FileName,3.33333E+18
+bestclient.exe,Windows - FileName,82947592475982
+New Folder.exe,Windows - FileName,3.33333E
+services.exe,Windows - FileName,3.33333E
+autorun.inf,Windows - FileName,3.33333E
+chrome.exe,Windows - FileName,3.3
+CNET Download.com,Windows - FileName,3.3987987
+ApnSetup.exe,Windows - FileName,3.39879878979
+SysTool.exe,Windows - FileName,3.39879878979
+SogouPY,Windows - FileName,3.39879878979
+iexplorer.exe,Windows - FileName,3.3333
+\users\,Windows - FilePath,5.37637E
+\program files\,Windows - FilePath,808709134134134312
+\appdata\local\ - FilePath,8087091
+echat.com,URI - Domain Name,7.77778E+20
+null,URI - Domain Name,7.777
+com.br,URI - Domain Name,7.77
+googlecode.com,URI - Domain Name,7
+webex.com,URI - Domain Name,7
+ieonline.microsoft.com,URI - Domain Name,7
+iportal,URI - Domain Name,7
+.com,URI - Domain Name,723243242
+rlink.com,URI - Domain Name,897979798713413
+link.com,URI - Domain Name,8829992999299
+sourceforge.net,URI - Domain Name,89797908000
+bizjournals.com,URI - Domain Name,987987987987
+b.smg.com,URI - Domain Name,7777777777777733
+neider.com,URI - Domain Name,678234234234
+lobal.net,URI - Domain Name,2222222222345
+land.com,URI - Domain Name,22222222223453333
+00296822C7BD55117E9A003E709F30F835253909AD14ADF588159B85B021E857,Hash - SHA2,1E+27
+027CE19F7CA0A26BD962A45D99F99CB8CD68AEBC3EC214624B5044C91D533066,Hash - SHA2,1
+0FBE24489D4B6F109A3C0706CBC78C85630EC281BB4B6BF00BEDB34EBD03A09C,Hash - SHA2,14444444
+9b3d3f13389570c0542bd3d8231e2c17634560f07f9564c433f89f24d8379dad,Hash - SHA2,14444444555
+1630519013a5082ade1a515869e3593b6ee71688f12120d03c7de82015da436c,Hash - SHA2,14444444555777
+c5c584538fe5ed61c1e17f932f0baedd7caaf75eefabbd8cac46986e65c42956,Hash - SHA2,14444444555777888
+eea97e0c75fafde0074457179b09ff5b76700795b86d0f4cae440680b99feb72,Hash - SHA2,14444444555777888999
+cbb755f29835dd6481556fab13fdc7abf025b7f0,Hash - SHA1,4.54455E+23
+bee375af50e0aa260fae31ab1171473457be1ace,Hash - SHA1,4
+434afcfab74bd69715fe41daf22023aeb0dfbbdd,Hash - SHA1,4.3
+0066b972ad3ab188738bbbb475f5c7a8a25c360b,Hash - SHA1,4.333
+b3bfc421f645dd71f3300be026e4bc7f10a30bcc,Hash - SHA1,4.333
+94d2d226c5cd660f4c23b63d2712436b455cfdf0,Hash - SHA1,4.33355
+53e0427e470b13167420b70a3acf51fb,Hash - MD5,8888888888
+47105e701d82ab18954487bc412a8fcd,Hash - MD5,88888888888
+834d4ae6c2dbda1501a0c3af811bf775,Hash - MD5,888888888888
+fe7b38240e86075e6bc5953496b5c2f1,Hash - MD5,88888888888888
+000000000000000000000000000000,Hash - MD5,888888888888880000
+system,Account,999999
+moz,URI - HTTP - UserAgent,4.36768E+13
+31.13.74.7,Address - ipv4-addr,4.67457E+13
+127.0.0.1,Address - ipv4-addr,4.674
+1.,Address - ipv4-addr,4.6745734242
+216.58.216.194,Address - ipv4-addr,4.7
+149.55.235.6,Address - ipv4-addr,4
+0.0.0.0,Address - ipv4-addr,4444
+index,URI - URL,3.56763E+13
+http://www.google.com,URI - URL,88888332111
+salesforce.com,URI - URL,888899999999999
+php,URI - Path,3.56763E+13
+/pdf/,URI - Path,343252423432
+/images,URI - Path,32343254325432
+registry\,Windows - Registry,3.63563E+11
+gmail,Email - Address,899823432
+a,Email - Subject,2323322222
+1,Email - Xmailer,2.31434E+12
+149.55.0.0/16,VIOC_CIDR,NA
+troj,Antivirus - Streetname,8976192879879
+ADC,AD_SERVERNAME,NA
+10.,AD,NA
+trojan,IDS - Streetname,897987987987987987
+/s,Windows - Shell,9999993333
+/m,Windows - Shell,132223333
+MS-RTC,URI - HTTP - UserAgent,37777
+149.55.135.129,Address - ipv4-addr,314324
+64.39.106.159,Address - ipv4-addr,314324
